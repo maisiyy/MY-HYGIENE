@@ -1,4 +1,4 @@
-# 🧼 MY-HYGIENE  
+<img width="472" height="223" alt="image" src="https://github.com/user-attachments/assets/04dee9dc-47a4-400f-aa54-901a2814e6d3" /><img width="3535" height="5000" alt="Gray Frasurbane Portfolio Cover A4 Document" src="https://github.com/user-attachments/assets/d6cd08da-df6d-491d-a960-c03262a948bb" /># 🧼 MY-HYGIENE  
 ### A 2D Educational Game for Personal Hygiene Learning Using Image Processing
 
 MY-HYGIENE is a 2D educational game designed to help young learners develop essential personal hygiene habits through fun, interactive gameplay.  
@@ -8,7 +8,7 @@ The game integrates **computer vision and image processing** techniques to encou
 
 ## 🎯 Project Objectives
 
-- Teach children proper **handwashing**, **tooth brushing**, and **nail trimming** habits
+- Teach children **handwashing**, **tooth brushing**, and **nail trimming** habits
 - Increase engagement using **game-based learning**
 - Reinforce hygiene behaviour through **real-time visual feedback**
 - Motivate children with a **reward and sticker system**
@@ -100,15 +100,16 @@ The game integrates **computer vision and image processing** techniques to encou
 
 ## 📸 Screenshots
 
-> (Add screenshots of gameplay here)
+<img width="883" height="426" alt="image" src="https://github.com/user-attachments/assets/d8f893e1-b46a-4302-a475-5f651030c868" />
+<img width="883" height="429" alt="image" src="https://github.com/user-attachments/assets/a64583bc-1e4f-43c5-a980-e8bbcbca33c6" />
+<img width="822" height="392" alt="image" src="https://github.com/user-attachments/assets/52f13fac-52d3-4be5-843a-b2f54ffc4b5d" />
+<img width="883" height="423" alt="image" src="https://github.com/user-attachments/assets/8d120037-d45f-4036-b883-014a2039520b" />
+<img width="472" height="223" alt="image" src="https://github.com/user-attachments/assets/87ddb15b-d89e-431f-b755-62c0fa59f126" />
+<img width="471" height="225" alt="image" src="https://github.com/user-attachments/assets/e221e832-24af-4556-b1c9-d787d0be1907" />
+<img width="471" height="224" alt="image" src="https://github.com/user-attachments/assets/ca11c67f-216a-4f59-8b48-992c6c56a01c" />
+
 
 ---
-
-## 👩‍💻 Developer
-
-**Siti Nur Maisarah Binti Mazlan**  
-Bachelor of Computer Science (Graphics & Multimedia Technology)  
-Universiti Malaysia Pahang Al-Sultan Abdullah  
 
 ---
 
